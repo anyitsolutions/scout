@@ -1,5 +1,5 @@
 {
-  "name": "laravel-doctrine/scout",
+  "name": "anyitsolutions/laravel-doctrine-scout",
   "description": "A Doctrine bridge for Laravel Scout",
   "license": "MIT",
   "keywords": [
